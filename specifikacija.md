@@ -14,9 +14,9 @@
 - Rezultāta rādīšanas lauks, kurā parādīsies konvertētā summa.
 - Poga vai opcija, lai apskatītu konversijas vēsturi.
 
-## Iespējamie Levaddati
+## Iespējamie Ievaddati
 - Valūtas kursi, ko var iegūt no finanšu datu avotiem vai trešo personu API.
-- Iespējams izmantot lietotāja iepriekšējās konversijas kā levaddatus, lai piedāvātu personificētus piedāvājumus.
+- Iespējams izmantot lietotāja iepriekšējās konversijas kā ievaddatus, lai piedāvātu personificētus piedāvājumus.
 
 ## Kā Attēlot Rezultātu
 - Konvertētā summa tiek rādīta skaitļos ar diviem cipariem aiz komata.
